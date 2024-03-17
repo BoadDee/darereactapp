@@ -24,6 +24,10 @@
     ]
   },
   
+  "jest": {
+    "testEnvironment": "jest-environment-jsdom"
+  },
+  
   "browserslist": {
     "production": [
       ">0.2%",
